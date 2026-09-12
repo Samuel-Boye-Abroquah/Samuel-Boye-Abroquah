@@ -8,7 +8,7 @@ and a business narrative.
 
 ## Featured Projects
 
-🎯 **[Order-to-Cash Analytics Platform](link)**  
+🎯 **[Order-to-Cash Analytics Platform](https://github.com/Samuel-Boye-Abroquah/meridian-order-to-cash-analytics)**  
 Full-stack BI: Python → MySQL star schema → Power BI with dynamic RLS and 
 dual executive dashboards. *Business analytics end-to-end.*
 
