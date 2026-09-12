@@ -24,4 +24,4 @@ Pandas · MySQL 8 · SQL · DAX · Power BI · ODBC · Dimensional Modeling
 [LinkedIn](https://linkedin.com/in/Samuel-Boye-Abroquah) · 
 [GitHub](https://github.com/Samuel-Boye-Abroquah) · 
 [Portfolio](https://samuel-boye-abroquah.github.io) · 
-[📄 Download CV (PDF)](https://samuel-boye-abroquah.github.io/Samuel_Boye_Abroquah_CV.pdf)
+[📄 Download CV (PDF)](https://samuel-boye-abroquah.github.io/Samuel_Boye_Abroquah.pdf)
