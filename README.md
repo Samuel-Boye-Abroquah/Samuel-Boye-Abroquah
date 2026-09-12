@@ -12,11 +12,11 @@ and a business narrative.
 Full-stack BI: Python → MySQL star schema → Power BI with dynamic RLS and 
 dual executive dashboards. *Business analytics end-to-end.*
 
-🏗️ **[SQL Data Warehouse](link)**  
+🏗️ **[SQL Data Warehouse](https://github.com/Samuel-Boye-Abroquah/sql-data-warehouse-project)**  
 Bronze → Silver → Gold medallion architecture in MySQL, with 40+ documented 
 data cleaning rules and validation tests. *Data engineering.*
 
-📊 **[SQL Data Analytics](link)**  
+📊 **[SQL Data Analytics](https://github.com/Samuel-Boye-Abroquah/sql-data-analytics-project)**  
 Companion analytics suite: window functions, CTEs, business reporting queries. 
 *Pure SQL craftsmanship.*
 
